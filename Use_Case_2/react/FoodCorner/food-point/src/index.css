@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.header{
+  position: relative;
+  top: -21px;
+  background-color:navy;
+  height: 62px;
+}
+.form{
+  position: relative;
+  width: 40%;
+  text-align: center;
+  height: 450px;
+  background-color: cyan;
+  margin-left: 370px;
+  margin-top: 100px;
+}
+
+.dropdown{
+  position: relative;
+    font-size: medium;
+    font-weight: 700;
+    margin-top: 10%;
+}
+.lable{
+  position: relative;
+  top: -20px;
+}
+.route{
+  position: relative;
+  margin-top: -3%;
+  margin-left: 90%;
+  top: -7px;
+  width: 70px;
+  color: blue;
+ 
+}
+.link{
+  position: relative;
+  margin-left: 20px;
+  font-weight: 700;
+  color: white;
+  
+}
+
+.create{
+  position: relative;
+  width: 40%;
+  text-align: center;
+  height: 607px;
+  background-color: cyan;
+  margin-left: 456px;
+  margin-top: -5px;
+}
+.order_placed{
+  position: relative;
+    width: 40%;
+    text-align: center;
+    height: 400px;
+    margin-top: -36px;
+    margin-left: 450px;
+    background-color: aqua;
+}
+.inner-lable{
+  position: relative;
+  top: -18px;
+}
+
+.itemDiv{
+  position: relative;
+  background-color: aqua;
+  width: 200px;
+  height: 150px;
+  margin-left: 40px;
+  margin-top: 5%;
+  box-shadow: beige;
+}
+
+.heading1{
+  position: relative;
+  margin-left: 5%;
+}
+
+.searchMenu{
+  position: relative;
+  text-align: center;
+  margin-top: 5%;
+  
+}
+.dilogBox{
+  position: absolute;
+  width: 300px;
+  background-color: rgb(198, 230, 238);
+  height: 250px;
+  top: 90px;
+  
+}
+
+.dilogBox1{
+  position: absolute;
+  width: 450px;
+  height: 350px;
+  top: 90px;
+  background-color: rgb(198, 230, 238);
+}
+
+.dilogBox2{
+  position: absolute;
+  width: 450px;
+  height: 500px;
+  top: 90px;
+  background-color: rgb(198, 230, 238);
+}
+
+.dilog_btn{
+  position: relative;
+  top: -0px;
+  margin-left: 20px;
+  background-color: rgb(79, 106, 129);
+}
+.top_btn{
+  position: relative;
+  text-align: center;
+}
+.total_btn{
+  position: relative;
+  margin-top: -25px;
+  margin-left: 300px;
+}
+.table_div{
+  position: relative;
+    overflow-y: scroll;
+    width: 92%;
+    background-color: lavenderblush;
+    height: 70%;
+    margin-left: 18px;
+    text-align: center;
+}
+.order_div{
+  position: relative;
+  width: 40%;
+  height: 55px;
+  background-color: red;
+  margin-left: 200px;
+  top: 35px;
+}
+.next{
+  position: relative;
+  margin-left: 80%;
+ top: -27px;
+}
+
+.outer{
+  position: relative;
+  height: 450px;
+  background-color: beige;
+  width: 1200px;
+  margin-left: 200px;
+  overflow-y: scroll;
+  
+}
+.order_placed_btn{
+  position: relative;
+  background-color:rgb(2, 196, 202); 
+  height: 50px;
+}
+.dilogBox3{
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 120px;
+  background-color: rgb(198, 230, 238);
+}
+
+.dilogBox4{
+  position: absolute;
+  width: 365px;
+  height: 500px;
+  top: 86px;
+}
